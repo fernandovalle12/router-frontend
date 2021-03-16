@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
-      <v-toolbar-title class="align-center">Router Generator</v-toolbar-title>
+      <v-toolbar-title class="align-center">A Generator</v-toolbar-title>
     </v-app-bar>
 
     <v-content>
